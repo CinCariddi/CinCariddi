@@ -1,8 +1,8 @@
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
 
-![version :28.06.2022](https://img.shields.io/badge/version-28.05.2022-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=matias183&color=red)&nbsp;
-[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/matias183?label=follow&style=social)](https://github.com/matias183)&nbsp;
+![version :19.07.2022](https://img.shields.io/badge/version-28.05.2022-informational) &nbsp;
+![profile count](https://komarev.com/ghpvc/?username=CinCariddd&color=red)&nbsp;
+[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/CinCariddi?label=follow&style=social)](https://github.com/matias183)&nbsp;
 
 
 ### 👨🏻‍💻 &nbsp;About Me
