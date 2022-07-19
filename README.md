@@ -40,6 +40,8 @@ ____________
 🚀 Technologies: 
 React - Redux - NodeJS -Express - PostgreSQL - Cloudinary - FullCalendar 
 
+<a href="https://club-henry.vercel.app/"> Proyecto Deployado </a> &nbsp;
+
 ![henryclub](https://user-images.githubusercontent.com/93681834/179811422-21b650fe-794f-4712-8d86-b9543a08f397.png)
 
 
