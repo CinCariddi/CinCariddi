@@ -1,4 +1,4 @@
-![Port](https://user-images.githubusercontent.com/58223692/95631179-9bf7af80-0a59-11eb-8120-a4a064c956b7.jpg)
+![Port](https://www.useit.es/sites/default/files/styles/panorami/public/2019-12/portada%20i%20mini_0.jpg?itok=qKXKBWw7)
 <h1 align="center"> Hola, Mi nombre es Cintia! 👋 :computer: </h1>
 
 <div>
