@@ -1,4 +1,4 @@
-![Hola, Mi nombre es Cintia!](https://github.com/CinCariddi/wancirone/blob/main/assets/hi.gif
+![Hola, Mi nombre es Cintia!](https://github.com/CinCariddi/cincariddi/blob/main/assets/hi.gif)
 
 ![version :19.07.2022](https://img.shields.io/badge/version-28.05.2022-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=CinCariddd&color=red)&nbsp;
