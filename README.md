@@ -1,9 +1,5 @@
-![Hola, Mi nombre es Cintia!](https://github.com/CinCariddi/cincariddi/blob/main/assets/hi.gif)
-
-![version :19.07.2022](https://img.shields.io/badge/version-28.05.2022-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=CinCariddd&color=red)&nbsp;
-[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/CinCariddi?label=follow&style=social)](https://github.com/matias183)&nbsp;
-
+![Port](https://user-images.githubusercontent.com/58223692/95631179-9bf7af80-0a59-11eb-8120-a4a064c956b7.jpg)
+<h1 align="center"> Hola, Mi nombre es Cintia! 👋 :computer: </h1>
 
 <div>
   <p>
@@ -43,6 +39,8 @@ ____________
 
 🚀 Technologies: 
 React - Redux - NodeJS - Express - PostgreSQL - Cloudinary - FullCalendar 
+
+(https://raw.githubusercontent.com/FernandoCarrilloBerdugo/FernandoCarrilloBerdugo/main/henryclub.PNG)
 
 ### 🛠 &nbsp;Tech Stack
 
