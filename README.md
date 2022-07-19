@@ -1,19 +1,49 @@
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
+![Port](https://user-images.githubusercontent.com/58223692/95631179-9bf7af80-0a59-11eb-8120-a4a064c956b7.jpg)
+<h1 align="center"> Hola, Mi nombre es Cintia! 👋 :computer: </h1>
 
 ![version :19.07.2022](https://img.shields.io/badge/version-28.05.2022-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=CinCariddd&color=red)&nbsp;
 [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/CinCariddi?label=follow&style=social)](https://github.com/matias183)&nbsp;
 
 
-### 👨🏻‍💻 &nbsp;About Me
+<div>
+  <p>
+    Soy estudiante de la carrera de Ingeniería Civil, desde siempre me ha gustado las ciencias duras y los desafíos debido a que soy una persona muy curiosa 
+ y disfruto de crear soluciones y resolver problemas. Al principio no sabia si la programación era lo mío debido a que en mi carrera había conocido muy poco de esto, pero cuando entre al bootcamp de SoyHenry me di cuenta de que es algo apasiónate y en lo que puedo seguir desafiándome. 
+ Tengo conocimientos de React, JavaScript, NodeJS, Redux, Sequelize, Express, 
+ NextJS, HTML5 ,CSS3 y Git. 
+  </p>
+</div>
 
-💡 &nbsp; I'm a Fullstack Web Developer, mostly working with React but i'm learning more technologies as you read this! \
-💻 &nbsp; I'm currently learning React native, AWS, Firebase and anything that interests me in the process\
-🎓 &nbsp; I studied at [SoyHenry's Bootcamp](https://www.soyhenry.com) with more than 800 hours of coding\
-🌱 &nbsp; I'm on track to learn more about Machine Learning, AI, Robotics and Web Development.\
-✍️ &nbsp; In my free time, I play games, talk to, and study together with my friends!.\
-💬 &nbsp; Feel free to reach out to me, I'll try to respond as soon as possible\
-📄 &nbsp; You can check my CV [here](https://drive.google.com/file/d/1vVxyhHY2EgNyablizov9YBUBpDD55rVS/view?usp=sharing).
+## Checkout my work
+👇
+👇
+👇
+
+## PokeApi
+
+📌 App de pokemons
+
+🚀 Technologies: 
+React - Redux - NodeJS- Express - PostgreSQL - CSS puro
+
+____________
+
+## DogApi
+
+📌 App de perros
+
+🚀 Technologies: 
+React - Redux - NodeJS- Express - PostgreSQL - CSS puro 
+
+____________
+
+## Club Deportivo
+
+📌 App de un club deportivo
+
+🚀 Technologies: 
+React - Redux - NodeJS - Express - PostgreSQL - Cloudinary - FullCalendar 
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -32,7 +62,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)&nbsp;
 
-### 📫 &nbsp; How to reach me:
+### 📫 &nbsp;Me podes contactar en:
 
 <a href="https://www.linkedin.com/in/cintiacariddi/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:cintiacariddi@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
