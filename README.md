@@ -38,9 +38,11 @@ ____________
 📌 App de un club deportivo
 
 🚀 Technologies: 
-React - Redux - NodeJS - Express - PostgreSQL - Cloudinary - FullCalendar 
+React - Redux - NodeJS -Express - PostgreSQL - Cloudinary - FullCalendar 
 
-(https://raw.githubusercontent.com/FernandoCarrilloBerdugo/FernandoCarrilloBerdugo/main/henryclub.PNG)
+![henryclub](https://user-images.githubusercontent.com/93681834/179811422-21b650fe-794f-4712-8d86-b9543a08f397.png)
+
+
 
 ### 🛠 &nbsp;Tech Stack
 
