@@ -44,7 +44,10 @@ ____________
 📌 App de perros
 
 🚀 Technologies: 
+
 React - Redux - NodeJS- Express - PostgreSQL - CSS puro 
+
+![WhatsApp Image 2022-07-21 at 8 39 01 PM](https://user-images.githubusercontent.com/93681834/180332346-2481e08d-d1a4-4dc5-89fe-10ab9c5e715a.jpeg)
 
 ____________
 
