@@ -15,12 +15,27 @@
 👇
 👇
 
+## Club Deportivo
+
+📌 App de un club deportivo
+
+🚀 Technologies: 
+React - Redux - NodeJS -Express - PostgreSQL - Cloudinary - FullCalendar 
+
+<a href="https://club-henry.vercel.app/"> Proyecto Deployado </a> &nbsp;
+
+![henryclub](https://user-images.githubusercontent.com/93681834/179811422-21b650fe-794f-4712-8d86-b9543a08f397.png)
+
+____________
+
 ## PokeApi
 
 📌 App de pokemons
 
 🚀 Technologies: 
 React - Redux - NodeJS- Express - PostgreSQL - CSS puro
+
+![WhatsApp Image 2022-07-21 at 11 23 35 AM](https://user-images.githubusercontent.com/93681834/180238263-459b847b-42d3-48d8-86fe-85a15e596fba.jpeg)
 
 ____________
 
@@ -32,17 +47,6 @@ ____________
 React - Redux - NodeJS- Express - PostgreSQL - CSS puro 
 
 ____________
-
-## Club Deportivo
-
-📌 App de un club deportivo
-
-🚀 Technologies: 
-React - Redux - NodeJS -Express - PostgreSQL - Cloudinary - FullCalendar 
-
-<a href="https://club-henry.vercel.app/"> Proyecto Deployado </a> &nbsp;
-
-![henryclub](https://user-images.githubusercontent.com/93681834/179811422-21b650fe-794f-4712-8d86-b9543a08f397.png)
 
 
 
