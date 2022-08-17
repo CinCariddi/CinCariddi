@@ -37,6 +37,7 @@ React - Redux - NodeJS- Express - PostgreSQL - CSS puro
 
 ![WhatsApp Image 2022-07-21 at 11 23 35 AM](https://user-images.githubusercontent.com/93681834/180238263-459b847b-42d3-48d8-86fe-85a15e596fba.jpeg)
 
+<a href="https://pi-pokemon-livid.vercel.app/"> Proyecto Deployado </a> &nbsp;
 ____________
 
 ## DogApi
