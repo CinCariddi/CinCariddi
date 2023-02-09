@@ -3,8 +3,7 @@
 
 <div>
   <p>
-    Soy estudiante de la carrera de Ingeniería Civil, desde siempre me ha gustado las ciencias duras y los desafíos debido a que soy una persona muy curiosa 
- y disfruto de crear soluciones y resolver problemas. Al principio no sabia si la programación era lo mío debido a que en mi carrera había conocido muy poco de esto, pero cuando entre al bootcamp de SoyHenry me di cuenta de que es algo apasiónate y en lo que puedo seguir desafiándome. 
+    Desde siempre me ha gustado las ciencias duras y los desafíos debido a que soy una persona muy curiosa y disfruto de crear soluciones y resolver problemas. Al principio no sabia si la programación, pero cuando entre al bootcamp de SoyHenry me di cuenta de que es algo apasiónate y en lo que puedo seguir desafiándome. 
  Tengo conocimientos de React, JavaScript, NodeJS, Redux, Sequelize, Express, 
  NextJS, HTML5 ,CSS3 y Git. 
   </p>
